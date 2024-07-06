@@ -1,0 +1,17 @@
+/* src/app/profilepage/profilepage.component.scss */
+.profile-container {
+  display: flex;
+  gap: 20px;
+}
+
+.profile-details {
+  flex: 2;
+}
+
+.related-details {
+  flex: 3;
+}
+
+.related-item {
+  margin-bottom: 10px;
+}

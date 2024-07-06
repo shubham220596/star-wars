@@ -1,0 +1,28 @@
+/* src/app/homepage/homepage.component.scss */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  gap: 20px;
+}
+
+.filters {
+  flex: 1;
+  min-width: 250px;
+}
+
+.results {
+  flex: 3;
+}
+
+.mat-table {
+  width: 100%;
+}
+
+.filter-element {
+  width: 100%;
+}
